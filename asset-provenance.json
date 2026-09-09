@@ -1,0 +1,49 @@
+{
+  "appName": "Egyptian Mythic Face",
+  "screenshots": [
+    {
+      "file": "assets/iphone-01.png",
+      "kind": "real_selection_ui",
+      "sha256": "9567ad70c04dccfb0ca07d6677ad6af00a439fa079e64c2cf4898e74440fc816",
+      "deviceFamily": "iphone",
+      "order": 1
+    },
+    {
+      "file": "assets/iphone-02.png",
+      "kind": "synthetic_marketing",
+      "sha256": "4809080d9eac44acb7b71fa53a6a796e65ec02345346851ade9752e64672cd77",
+      "deviceFamily": "iphone",
+      "order": 2
+    },
+    {
+      "file": "assets/iphone-03.png",
+      "kind": "synthetic_marketing",
+      "sha256": "c26968065c308cecd80cdefccc9e65014cefd4cee07f1d3947c6f5c46ad1d576",
+      "deviceFamily": "iphone",
+      "order": 3
+    },
+    {
+      "file": "assets/ipad-01.png",
+      "kind": "real_selection_ui",
+      "sha256": "95e6e0d8f2a29b20e5395c7c1a750b877fde49ca3f8326da662199758526c390",
+      "deviceFamily": "ipad",
+      "order": 1
+    },
+    {
+      "file": "assets/ipad-02.png",
+      "kind": "synthetic_marketing",
+      "sha256": "2fa4d4255da0fd12ce0b9444c1892d8e4371d8b38332d3026244ae7d1f891ef6",
+      "deviceFamily": "ipad",
+      "order": 2
+    },
+    {
+      "file": "assets/ipad-03.png",
+      "kind": "synthetic_marketing",
+      "sha256": "fa5844a917c16dcd239273c99ac13191633dfa743832c0caefc671b8b55df6f4",
+      "deviceFamily": "ipad",
+      "order": 3
+    }
+  ],
+  "iconSHA256": "968bd0434a74a5ee250acbe1d798b3b1f3f13e139853d40679c82cae72dc4d9c",
+  "imageEditing": "None. Exact approved icon and final screenshot files copied."
+}
